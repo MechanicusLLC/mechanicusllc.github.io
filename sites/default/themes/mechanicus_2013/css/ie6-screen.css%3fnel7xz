@@ -1,0 +1,4 @@
+/* ============ */
+/* = REQUIRED = */
+/* ============ */
+img { -ms-interpolation-mode:bicubic; }
